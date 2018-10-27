@@ -1,1 +1,1 @@
-Personal website. Uses gatsbyjs and the (https://github.com/praagyajoshi/gatsby-starter-2column-portfolio)[gatsby-starter-2column-portfolio] starter template.
+Personal website. Uses gatsbyjs and the [gatsby-starter-2column-portfolio](https://github.com/praagyajoshi/gatsby-starter-2column-portfolio) starter template.
