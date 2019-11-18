@@ -9,7 +9,7 @@ class About extends Component {
         <div className="image">
         </div>
         <div className="bio">
-          A full stack software engineer who enjoys the challenge of delivering useful products. 
+          A full stack software engineer and architect who enjoys the challenge of delivering useful products. 
           I love the process of getting from an idea all the way to delivering a quality product.
         </div>
       </div>

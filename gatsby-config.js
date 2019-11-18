@@ -8,14 +8,7 @@ module.exports = {
           `open sans\:300,600`
         ]
       }
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "<your-tracking-id-here>",
-        head: true
-      }
-    },
+    }
   ],
   siteMetadata: {
     title: 'Cameron Chapman',

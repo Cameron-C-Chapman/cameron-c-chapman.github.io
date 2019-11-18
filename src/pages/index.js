@@ -16,9 +16,9 @@ const IndexPage = () => (
         </h5>
 
         <h3 className="bold">
-          Full stack software engineer with {yearsOfExperience}+ years of experience building software 
+          Full stack software engineer and architect, with {yearsOfExperience}+ years of experience building software 
           for a higher education SaaS and analytics company, a major international device 
-          manufacturer, and an innovative sports fan engagement platform.
+          manufacturer, a health care software platform, and an innovative sports fan engagement platform.
         </h3>
 
         <ExperienceSection />
