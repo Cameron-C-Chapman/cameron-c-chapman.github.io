@@ -6,6 +6,7 @@ import adAstraLogo from '../../assets/images/experience/ad-astra-logo.png'
 import garminLogo from '../../assets/images/experience/garmin-logo.png'
 import dstHealthLogo from '../../assets/images/experience/dst-health-logo.png'
 import ftsLogo from '../../assets/images/experience/fts-logo.png'
+import innosolLogo from '../../assets/images/experience/innosol-logo.png'
 
 class ExperienceSection extends React.Component {
   render() {
@@ -13,12 +14,23 @@ class ExperienceSection extends React.Component {
       <Section title="Experience">
         <div className="row">
           <ExperienceUnit
+            logo={innosolLogo}
+            colour='#FFFFFF'
+            title='Innosol'
+            link='http://innosolpro.com/'
+            timeperiod='2020 - Present'
+            subtitle="Currently working as a Principal Software Enginner for Innosol. Innosol is a local 
+            Kansas City startup that is focused on building graph analytics technology for various industries. 
+            This includes building distributed data ingestion pipelines, graph database services, and client 
+            facing applications."
+          />
+          <ExperienceUnit
             logo={ftsLogo}
             colour='#FFFFFF'
             title='FanThreeSixty'
-            link='http://www.fanthreesixty.com/'
-            timeperiod='2018 - Present'
-            subtitle="Currently working on FanThreeSixty's fan engagement and customer data platform as a 
+            link='https://www.fanthreesixty.com/'
+            timeperiod='2018 - 2020'
+            subtitle="Worked on FanThreeSixty's fan engagement and customer data platform as a 
             Technical Lead/Architect for FanThreeSixty's Sales product. There are interesting web application 
             and distributed systems and processing problems to solve everyday."
           />
